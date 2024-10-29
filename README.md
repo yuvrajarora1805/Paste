@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Paste
-**Paste** is a web app for creating, storing, viewing, and sharing sticky notes. Users can manage notes with features like editing, deleting, copying content, and sharing links. Built with React, Redux, and Tailwind CSS, it saves notes locally via `localStorage` for persistence across sessions.
-=======
 # 📝 Paste - Sticky Notes Web Application
 
 ### 🚀 Description
@@ -73,15 +69,8 @@
 
 ---
 
-### 🤝 Contributions
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests with new features, bug fixes, or improvements.
-
----
-
 ## ✨ Contributors
 
 - **Suhas Kanwar** – [GitHub Profile](https://github.com/SuhasKanwar)
 
 ---
->>>>>>> b62a738 (Initial commit)
