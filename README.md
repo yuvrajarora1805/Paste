@@ -31,7 +31,7 @@
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/SuhasKanwar/Paste.git
-   cd Paste-App
+   cd Paste
    ```
 
 2. **Install dependencies**:
@@ -43,8 +43,13 @@
    ```bash
    npm start
    ```
+   or try
+   ```bash
+   npm run dev
+   ```
 
-4. **Access the app**:
+
+5. **Access the app**:
    Open your browser and go to `http://localhost:5173`.
 
 ---
